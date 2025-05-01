@@ -1,12 +1,9 @@
+<a name="top"></a>
 # Csharp-learn
-  C# Language-Specific Learning Path
-These topics focus on C# as a programming language, covering syntax, features, and constructs. Learn these to master C#’s core capabilities, applicable in any .NET or non-.NET environment (e.g., Unity).
+C# Language-Specific Learning Path
+
 
 ## Table of Contents
-
-- [Basic Syntax](#basic-syntax)
-- [Namespaces](#namespaces)
-- [Access Modifiers](#access-modifiers)
 - [Object-Oriented Programming (OOP)](#object-oriented-programming-oop)
 - [Constructors and Destructors](#constructors-and-destructors)
 - [this, base, and params keywords](#this-base-and-params-keywords)
@@ -45,22 +42,42 @@ These topics focus on C# as a programming language, covering syntax, features, a
 - [Global Usings](#global-usings-and-file-scoped-namespaces)
 - [Top-Level Statements](#top-level-statements)
 
-## Basic Syntax
+## Object-Oriented Programming (OOP)
 
-> Your notes, cheatcodes, or examples here...
+> 
 
----
+```csharp
+public class School{
+    string name;
+    int estd;
+    // class name == method name called constructor
+    // use  for get and set value in run time
+    public School(){
+        System.Console.WriteLine("Default Constructor------>");
+    }
 
-## Namespaces
+      public School(string n,int e){
+        System.Console.WriteLine("Default Constructor");
+        System.Console.WriteLine($"{n}---> {e}");
 
-> Explanation or sample code...
+    }
 
----
+}
+```
+
+
+[🔝 Back to Top](#table-of-contents)
+
+
 
 ## Access Modifiers
 
-> Shortcut examples...
+> 
 
+
+
+
+[🔝 Back to Top](#table-of-contents)
 ...
 
 ## Top-Level Statements
