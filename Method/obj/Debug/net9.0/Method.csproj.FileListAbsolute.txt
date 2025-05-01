@@ -1,0 +1,15 @@
+E:\C-sharp\HelloApp\Method\bin\Debug\net9.0\Method.exe
+E:\C-sharp\HelloApp\Method\bin\Debug\net9.0\Method.deps.json
+E:\C-sharp\HelloApp\Method\bin\Debug\net9.0\Method.runtimeconfig.json
+E:\C-sharp\HelloApp\Method\bin\Debug\net9.0\Method.dll
+E:\C-sharp\HelloApp\Method\bin\Debug\net9.0\Method.pdb
+E:\C-sharp\HelloApp\Method\obj\Debug\net9.0\Method.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-sharp\HelloApp\Method\obj\Debug\net9.0\Method.AssemblyInfoInputs.cache
+E:\C-sharp\HelloApp\Method\obj\Debug\net9.0\Method.AssemblyInfo.cs
+E:\C-sharp\HelloApp\Method\obj\Debug\net9.0\Method.csproj.CoreCompileInputs.cache
+E:\C-sharp\HelloApp\Method\obj\Debug\net9.0\Method.sourcelink.json
+E:\C-sharp\HelloApp\Method\obj\Debug\net9.0\Method.dll
+E:\C-sharp\HelloApp\Method\obj\Debug\net9.0\refint\Method.dll
+E:\C-sharp\HelloApp\Method\obj\Debug\net9.0\Method.pdb
+E:\C-sharp\HelloApp\Method\obj\Debug\net9.0\Method.genruntimeconfig.cache
+E:\C-sharp\HelloApp\Method\obj\Debug\net9.0\ref\Method.dll
