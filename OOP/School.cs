@@ -1,19 +1,25 @@
-public class School{
-    string name;
+public class School
+{
+   public string name;
     int estd;
 
     // class name == method name called constructor
     // use  for get and set value in run time
-    public School(){
-        System.Console.WriteLine("Default Constructor------>");
+    // public School()
+    // {
+    //     System.Console.WriteLine("Default Constructor------>");
+    // }
+
+    // public School(string n, int e)
+    // {
+    //     // System.Console.WriteLine("Default Constructor");
+    //     System.Console.WriteLine($"{n}---> {e}");
+
+    // }
+    public void Display(string n, int e)
+    {
+        System.Console.WriteLine($"{n} --- {e}");
     }
-
-      public School(string n,int e){
-        System.Console.WriteLine("Default Constructor");
-        System.Console.WriteLine($"{n}---> {e}");
-
-    }
-
     // when pass any parameter then it is called parametrized constructor
 
 }

@@ -12,6 +12,15 @@ Console.WriteLine("Learn OOP!");
 
 
 // when create an obj , constructor call automatically, no nned to call constructor again.
-School s1 = new School("Hasiib",1542);
+School s1 = new School();
+s1.name = "hasib0909";
+s1.Display("hasib",1887);
+
+
 School s2 = new School();
-School s3 = new School("MBA",1660);
+s2.Display("luka",1222);
+
+System.Console.WriteLine(s1.name);
+s1=s2;
+s2.name = "SSS";
+System.Console.WriteLine(s1.name);
