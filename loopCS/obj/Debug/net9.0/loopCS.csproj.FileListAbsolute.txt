@@ -1,0 +1,15 @@
+E:\C-sharp\HelloApp\loopCS\bin\Debug\net9.0\loopCS.exe
+E:\C-sharp\HelloApp\loopCS\bin\Debug\net9.0\loopCS.deps.json
+E:\C-sharp\HelloApp\loopCS\bin\Debug\net9.0\loopCS.runtimeconfig.json
+E:\C-sharp\HelloApp\loopCS\bin\Debug\net9.0\loopCS.dll
+E:\C-sharp\HelloApp\loopCS\bin\Debug\net9.0\loopCS.pdb
+E:\C-sharp\HelloApp\loopCS\obj\Debug\net9.0\loopCS.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-sharp\HelloApp\loopCS\obj\Debug\net9.0\loopCS.AssemblyInfoInputs.cache
+E:\C-sharp\HelloApp\loopCS\obj\Debug\net9.0\loopCS.AssemblyInfo.cs
+E:\C-sharp\HelloApp\loopCS\obj\Debug\net9.0\loopCS.csproj.CoreCompileInputs.cache
+E:\C-sharp\HelloApp\loopCS\obj\Debug\net9.0\loopCS.sourcelink.json
+E:\C-sharp\HelloApp\loopCS\obj\Debug\net9.0\loopCS.dll
+E:\C-sharp\HelloApp\loopCS\obj\Debug\net9.0\refint\loopCS.dll
+E:\C-sharp\HelloApp\loopCS\obj\Debug\net9.0\loopCS.pdb
+E:\C-sharp\HelloApp\loopCS\obj\Debug\net9.0\loopCS.genruntimeconfig.cache
+E:\C-sharp\HelloApp\loopCS\obj\Debug\net9.0\ref\loopCS.dll
