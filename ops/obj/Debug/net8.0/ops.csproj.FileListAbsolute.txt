@@ -1,0 +1,15 @@
+E:\C-sharp\HelloApp\ops\bin\Debug\net8.0\ops.exe
+E:\C-sharp\HelloApp\ops\bin\Debug\net8.0\ops.deps.json
+E:\C-sharp\HelloApp\ops\bin\Debug\net8.0\ops.runtimeconfig.json
+E:\C-sharp\HelloApp\ops\bin\Debug\net8.0\ops.dll
+E:\C-sharp\HelloApp\ops\bin\Debug\net8.0\ops.pdb
+E:\C-sharp\HelloApp\ops\obj\Debug\net8.0\ops.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-sharp\HelloApp\ops\obj\Debug\net8.0\ops.AssemblyInfoInputs.cache
+E:\C-sharp\HelloApp\ops\obj\Debug\net8.0\ops.AssemblyInfo.cs
+E:\C-sharp\HelloApp\ops\obj\Debug\net8.0\ops.csproj.CoreCompileInputs.cache
+E:\C-sharp\HelloApp\ops\obj\Debug\net8.0\ops.sourcelink.json
+E:\C-sharp\HelloApp\ops\obj\Debug\net8.0\ops.dll
+E:\C-sharp\HelloApp\ops\obj\Debug\net8.0\refint\ops.dll
+E:\C-sharp\HelloApp\ops\obj\Debug\net8.0\ops.pdb
+E:\C-sharp\HelloApp\ops\obj\Debug\net8.0\ops.genruntimeconfig.cache
+E:\C-sharp\HelloApp\ops\obj\Debug\net8.0\ref\ops.dll

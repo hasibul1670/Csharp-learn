@@ -1,0 +1,15 @@
+E:\C-sharp\HelloApp\InputUser\bin\Debug\net8.0\InputUser.exe
+E:\C-sharp\HelloApp\InputUser\bin\Debug\net8.0\InputUser.deps.json
+E:\C-sharp\HelloApp\InputUser\bin\Debug\net8.0\InputUser.runtimeconfig.json
+E:\C-sharp\HelloApp\InputUser\bin\Debug\net8.0\InputUser.dll
+E:\C-sharp\HelloApp\InputUser\bin\Debug\net8.0\InputUser.pdb
+E:\C-sharp\HelloApp\InputUser\obj\Debug\net8.0\InputUser.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-sharp\HelloApp\InputUser\obj\Debug\net8.0\InputUser.AssemblyInfoInputs.cache
+E:\C-sharp\HelloApp\InputUser\obj\Debug\net8.0\InputUser.AssemblyInfo.cs
+E:\C-sharp\HelloApp\InputUser\obj\Debug\net8.0\InputUser.csproj.CoreCompileInputs.cache
+E:\C-sharp\HelloApp\InputUser\obj\Debug\net8.0\InputUser.sourcelink.json
+E:\C-sharp\HelloApp\InputUser\obj\Debug\net8.0\InputUser.dll
+E:\C-sharp\HelloApp\InputUser\obj\Debug\net8.0\refint\InputUser.dll
+E:\C-sharp\HelloApp\InputUser\obj\Debug\net8.0\InputUser.pdb
+E:\C-sharp\HelloApp\InputUser\obj\Debug\net8.0\InputUser.genruntimeconfig.cache
+E:\C-sharp\HelloApp\InputUser\obj\Debug\net8.0\ref\InputUser.dll

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloApp", "HelloApp\HelloApp.csproj", "{90A8F433-A4E2-44A3-B716-E035CE11CD21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputUser", "InputUser\InputUser.csproj", "{5F382ACA-C4C6-4DB7-903E-BDADF3226F3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ops", "ops\ops.csproj", "{E793403E-72C9-4887-B116-1458E230DECF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90A8F433-A4E2-44A3-B716-E035CE11CD21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90A8F433-A4E2-44A3-B716-E035CE11CD21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90A8F433-A4E2-44A3-B716-E035CE11CD21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90A8F433-A4E2-44A3-B716-E035CE11CD21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F382ACA-C4C6-4DB7-903E-BDADF3226F3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F382ACA-C4C6-4DB7-903E-BDADF3226F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F382ACA-C4C6-4DB7-903E-BDADF3226F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F382ACA-C4C6-4DB7-903E-BDADF3226F3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E793403E-72C9-4887-B116-1458E230DECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E793403E-72C9-4887-B116-1458E230DECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E793403E-72C9-4887-B116-1458E230DECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E793403E-72C9-4887-B116-1458E230DECF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4ED860C9-DCED-453F-A865-8198E6695743}
+	EndGlobalSection
+EndGlobal
